@@ -1,0 +1,22 @@
+
+.questionContainer {
+  margin-bottom: 20px;
+}
+
+.option {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.option:hover{
+
+    border: 1px solid rgb(74, 170, 249)
+}
+.highlighted {
+background-color: rgb(70, 141, 255);
+ color: white;
+}
